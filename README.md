@@ -7,6 +7,11 @@
 <p>
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=frantanius&theme=react&hide_border=true" alt="Franz" />
 </p>
+<p>
+  <a href="https://github.com/frantanius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frantanius&count_private=true&hide=issues&show_icons=true&theme=ayu-mirage" />
+  </a>
+</p>
 
 <!--
 **frantanius/frantanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
