@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Franz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+# About Me
+
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me frantaniussinulingga@gmail.com
 
 ## Stats📈
 <p align="start">
@@ -16,17 +22,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=frantanius&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<!--
+## 👀 Profile Views
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffrantanius&label=Visitor&labelColor=%231f2430&countColor=%23316d87)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffrantanius)
+<!---
 **frantanius/frantanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--->
