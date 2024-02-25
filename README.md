@@ -13,6 +13,9 @@
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=frantanius&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 <!--
 **frantanius/frantanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
